@@ -11,13 +11,7 @@
 
 ## 📌 Projects
 
-* 🎬 YouTube UI Clone (HTML & CSS)
-
-  * Built a responsive front-end clone of YouTube
-  * Focused on layout, styling, and design accuracy
-  * 🔗 https://github.com/kaualkaushik124-alt/youtube-clone
-
-* 🔹 To-Do List App *(Coming Soon)*
+# coming soon
 
 
 ## 📚 Currently Learning
@@ -28,5 +22,5 @@
 
 ## 📫 Contact
 
-* LinkedIn: https://linkedin.com/in/kaualkaushik124-alt
+* LinkedIn: https://linkedin.com/in/abhishek-kaushik-268b07407
 * Email: [abhishekkaushik277@gmail.com]
