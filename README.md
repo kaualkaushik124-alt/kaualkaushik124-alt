@@ -28,5 +28,5 @@
 
 ## 📫 Contact
 
-* LinkedIn: https://linkedin.com/in/your-username
+* LinkedIn: https://linkedin.com/in/kaualkaushik124-alt
 * Email: [abhishekkaushik277@gmail.com]
