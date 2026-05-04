@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Abhishek Kaushik 👋
 
-<!--
-**kaualkaushik124-alt/kaualkaushik124-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
+💻 Aspiring Full Stack Developer (MERN)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript (Learning)
+
+## 📌 Projects
+
+* 🎬 YouTube UI Clone (HTML & CSS)
+
+  * Built a responsive front-end clone of YouTube
+  * Focused on layout, styling, and design accuracy
+  * 🔗 https://github.com/kaualkaushik124-alt/youtube-clone
+
+* 🔹 To-Do List App *(Coming Soon)*
+
+
+## 📚 Currently Learning
+
+* JavaScript (DOM, Events)
+* React (Basics)
+
+
+## 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/your-username
+* Email: [abhishekkaushik277@gmail.com]
